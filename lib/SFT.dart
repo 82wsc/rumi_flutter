@@ -26,7 +26,7 @@ class _Myfit extends State<Myfit> {
   String? gender;
   String? age;
   List<Map<String, dynamic>> data = [];
-  final String ngrokBaseUrl = "http://localhost:3000/";
+  final String ngrokBaseUrl = "https://5a76-175-214-183-100.ngrok-free.app";
 
   @override
   void initState() {

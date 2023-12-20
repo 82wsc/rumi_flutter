@@ -32,7 +32,7 @@ class _ChairPoseDetectorViewState extends State<ChairPoseDetectorView> {
   String? _text_timer = '3';
   String? _text_counter = '0';
   var _cameraLensDirection = CameraLensDirection.back;
-  final String ngrokBaseUrl = "https://e346-14-44-120-104.ngrok-free.app";
+  final String ngrokBaseUrl = "https://5a76-175-214-183-100.ngrok-free.app";
 
   Timer? _timer;
   int _elapsedTime = 0;
@@ -69,7 +69,7 @@ class _ChairPoseDetectorViewState extends State<ChairPoseDetectorView> {
     });
   }
   int getModifiedLastChairUpCount(int lastChairUpCount) {
-    if (lastChairUpCount > 4 && lastChairUpCount <= 6) {
+    if (lastChairUpCount > 0 && lastChairUpCount <= 6) {
       return 92;
     } else if (lastChairUpCount > 6 && lastChairUpCount <= 8) {
       return 87;
@@ -81,7 +81,7 @@ class _ChairPoseDetectorViewState extends State<ChairPoseDetectorView> {
       return 72;
     } else if (lastChairUpCount > 14 && lastChairUpCount <= 16) {
       return 67;
-    } else if (lastChairUpCount > 16 && lastChairUpCount <= 18) {
+    } else if (lastChairUpCount > 16 && lastChairUpCount <= 50) {
       return 62;
     } else {
       return 0;

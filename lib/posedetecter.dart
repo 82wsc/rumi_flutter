@@ -45,7 +45,7 @@ class _PoseDetectorViewState extends State<PoseDetectorView> {
   String? _text_timer = '3';
   String? _text_counter = '0';
   var _cameraLensDirection = CameraLensDirection.back;
-  final String ngrokBaseUrl = "https://e346-14-44-120-104.ngrok-free.app";
+  final String ngrokBaseUrl = "https://5a76-175-214-183-100.ngrok-free.app";
 
   Timer? _timer;
   int _elapsedTime = 0;
@@ -142,7 +142,7 @@ class _PoseDetectorViewState extends State<PoseDetectorView> {
           if (_elapsedTime >= 33)
             ElevatedButton(
               onPressed: () {
-                Navigator.push(context, MaterialPageRoute(builder: (context) => ChairPoseDetectorView()));
+                Navigator.push(context, MaterialPageRoute(builder: (context) => Myfit()));
               },
               style: ElevatedButton.styleFrom(
                 backgroundColor: Color(0xFF1F4EF5),
