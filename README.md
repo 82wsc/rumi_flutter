@@ -73,4 +73,5 @@ https://github.com/hyobin0726/rumi_flutter/assets/140376727/e4d39234-d30d-46d8-b
 ![image](https://github.com/hyobin0726/rumi_flutter/assets/140376727/25af05ef-6c67-463e-b2d4-fb1d6ebb19b3)
 
 <img src="https://github.com/hyobin0726/rumi_flutter/assets/140376727/cf96bbc8-2d34-456c-aeb4-9e80eba8ac5c" width="300" height="300"/>
+
 사용자의 무병장수를 기원하며 십장생 중 학(두루미)에서 착안한 자체 제작 캐릭터
