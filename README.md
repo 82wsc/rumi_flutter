@@ -170,7 +170,7 @@ SFT 측정 항목
 
 **루미 버튼 터치 시 챗봇화면으로 이동**
 
-[302937131-e4d39234-d30d-46d8-b6f3-2836fc665f9c.mp4]([./images/302937131-e4d39234-d30d-46d8-b6f3-2836fc665f9c.mp4](https://s3.ezgif.com/tmp/ezgif-3bfd2e8c8768bf.gif))
+[302937131-e4d39234-d30d-46d8-b6f3-2836fc665f9c.mp4]([302937131-e4d39234-d30d-46d8-b6f3-2836fc665f9c.mp4](./images/ezgif-3bfd2e8c8768bf.gif))
 
 ---
 
