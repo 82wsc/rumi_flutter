@@ -12,7 +12,7 @@
 사용자의 무병장수를 기원하며 십장생 중 학(두루미)에서 착안한 자체 제작 캐릭터
 루미를 통해 육체적/정신적 건강 서비스를 제공할 예정
 
-![Untitled](Untitled.png)
+![Untitled](./images/Untitled.png)
 
 # 배경
 
